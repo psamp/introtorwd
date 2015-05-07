@@ -1,0 +1,15 @@
+form {
+	max-width: 500px;
+}
+
+input {
+	display:inline-block;
+	width: calc(100% - 104px);
+}
+
+button {
+	display:inline-block;
+	width:100px;
+	font-size: 2em;
+	padding:1px;
+}
