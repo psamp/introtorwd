@@ -1,6 +1,6 @@
 # Intro to Responsive Web Design
 
--design for movile first
+-design for mobile first
 
 -make use of seprate stylesheets (have your own last)
 
